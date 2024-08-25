@@ -1,9 +1,21 @@
 ## Hi there 👋
-<img src="picture22.jpg" alt="picture" />
 
-Hello! My name is Erandi, and I am currently pursuing a master's degree in Mechatronics. My primary focus is on robot programming, particularly in motion planning, trajectory generation, and image processing.
+My name is Erandi, I am from Mexico 🇲🇽, and I am currently pursuing a master's degree in Mechatronics. My primary focus is on robot programming, particularly in motion planning, trajectory generation, and image processing.
 
-I have a basic understanding of ROS 1 and ROS 2, and I am proficient in C++ and Python programming languages.
+I have a basic understanding of:
+- 🤖 ROS 1 
+- 🦾 ROS 2
+
+I am proficient in programing
+- 🅲 C++
+- 🐍 Python
+
+<p align="right">
+  <img src="picture22.jpg" alt="picture" width="250px">
+</p>
+
+
+
 
 <!--
 **erandivg/erandivg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
