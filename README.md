@@ -11,7 +11,7 @@ I am proficient in programing
 - 🐍 Python
 
 <p align="right">
-  <img src="picture22.jpg" alt="picture" width="250px">
+  <img src="picture.jpg" alt="picture" width="250px">
 </p>
 
 
