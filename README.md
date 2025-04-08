@@ -2,19 +2,20 @@
 
 My name is Erandi, I am from Mexico 🇲🇽, and I am currently pursuing a master's degree in Mechatronics. My primary focus is on robot programming, particularly in motion planning, trajectory generation, and image processing.
 
-I have a basic understanding of:
-- 🤖 ROS 1 
-- 🦾 ROS 2
+I have intermediate experience with:
+- 🤖 **ROS 1**
+- 🦾 **ROS 2** (beginner level)
 
-I am proficient in programing
-- 🅲 C++
-- 🐍 Python
+In terms of programming, I am proficient in:
+- 🅲 **C++**
+- 🐍 **Python** (beginner level)
 
-<p align="right">
-  <img src="picture.jpg" alt="picture" width="250px">
+
+<p align="center">
+  <img src="image.png" alt="picture" width="550px">
 </p>
 
-
+- 🌱 I’m currently learning more about ROS 2 
 
 
 <!--
