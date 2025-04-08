@@ -10,12 +10,13 @@ In terms of programming, I am proficient in:
 - 🅲 **C++**
 - 🐍 **Python** (beginner level)
 
+🌱 I’m currently learning more about ROS 2 
 
 <p align="center">
   <img src="image.png" alt="picture" width="550px">
 </p>
 
-- 🌱 I’m currently learning more about ROS 2 
+
 
 
 <!--
