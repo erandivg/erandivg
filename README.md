@@ -4,11 +4,11 @@ My name is Erandi, I am from Mexico 🇲🇽, and I am currently pursuing a mast
 
 I have intermediate experience with:
 - 🤖 **ROS 1**
-- 🦾 **ROS 2** (beginner level)
+- 🦾 **ROS 2**
 
 In terms of programming, I am proficient in:
 - 🅲 **C++**
-- 🐍 **Python** (beginner level)
+- 🐍 **Python**
 
 🌱 I’m currently learning more about ROS 2 
 
